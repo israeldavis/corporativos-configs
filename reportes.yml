@@ -1,0 +1,2 @@
+report:
+  template: "{corporativo} was founded in {foundation_date} by {founder}, the websites for this corporativo are {web_sites}"
