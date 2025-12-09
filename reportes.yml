@@ -1,2 +1,4 @@
 report:
   template: "{corporativo} was founded in {foundation_date} by {founder}, the websites for this corporativo are {web_sites}"
+fallback:
+  uri: "http://localhost:8787/corporativos-crud-fallback/corporativo/{name}"
